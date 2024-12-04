@@ -8,12 +8,7 @@ class Helloworld{
 	  //add two numbers
           int sum = first + second;
           System.out.println(first + " + " + second + " = " +sum);
-          System.out.println("Hello, world!");
-	  System.out.println(" This line is from new commit")                                                                   System.out.println(" This line is from new commit")
-          System.out.println(" This line is from new commit")
-	  System.out.println(" This line is from new commit")
-	  
-
+          System.out.println("Hello, world!")
   }
 }
 
